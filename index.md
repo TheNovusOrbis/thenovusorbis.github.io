@@ -1,1 +1,1 @@
-<span align="center">Truth heal. Truth change. Truth will always exist</span>
+<span style="text-align:center">Truth heal. Truth change. Truth will always exist</span>
